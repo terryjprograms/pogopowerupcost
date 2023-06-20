@@ -1,4 +1,5 @@
 COST_PER_POWERUP = {
+	# lvl : [stardust, candy, xl_candy]
     1: [200, 1, 0],
     1.5: [200, 1, 0],
     2: [200, 1, 0],
